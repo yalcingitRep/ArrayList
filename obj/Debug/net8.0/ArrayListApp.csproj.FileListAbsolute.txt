@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\bin\Debug\net8.0\ArrayListApp.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\bin\Debug\net8.0\ArrayListApp.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\bin\Debug\net8.0\ArrayListApp.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\bin\Debug\net8.0\ArrayListApp.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\bin\Debug\net8.0\ArrayListApp.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\ArrayListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\ArrayListApp.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\ArrayListApp.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\ArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\ArrayListApp.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\refint\ArrayListApp.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\ArrayListApp.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\ArrayListApp.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\ArrayList\obj\Debug\net8.0\ref\ArrayListApp.dll
